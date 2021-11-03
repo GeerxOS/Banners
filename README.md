@@ -1,4 +1,7 @@
 # Banners
 Banners xd
 
-cat "nombre de un banner"
+apt install git -y
+git clone https://github.com/GeraBruhh/Banners
+cd Banners
+sh banners.sh
